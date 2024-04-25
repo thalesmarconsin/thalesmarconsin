@@ -9,7 +9,7 @@
 <img align="right" alt="Code boy image" src="./codeboy.png"  width="300px"/>
 
 ## My name is Thales Marconsin
-(Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+(Angular | TypeScript | JavaScript | MySQL | PHP | HTML | CSS | GIT ) 🚀
 - 👩‍💻 Front-End Developer @[Geminis Soluções](https://www.geminissolucoes.com.br/)
 - 🎓 Systems Analysis and Development @ [FATEC](https://www.fatecjales.edu.br/)
 - 🎓 Internet Computing @ [ETEC](https://etecsantafedosul.com.br/)
