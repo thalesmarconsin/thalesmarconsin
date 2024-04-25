@@ -8,8 +8,12 @@
 
 <img align="right" alt="Code boy image" src="./codeboy.png"  width="300px"/>
 
+## My Skills
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vscode,git,github&theme=dark" />
+
+
 ## My name is Thales Marconsin
-(Angular | TypeScript | JavaScript | MySQL | PHP | HTML | CSS | GIT ) 🚀
 - 👩‍💻 Front-End Developer @[Geminis Soluções](https://www.geminissolucoes.com.br/)
 - 🎓 Systems Analysis and Development @ [FATEC](https://www.fatecjales.edu.br/)
 - 🎓 Internet Computing @ [ETEC](https://etecsantafedosul.com.br/)
