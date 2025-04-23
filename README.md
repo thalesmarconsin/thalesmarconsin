@@ -23,6 +23,5 @@
 
 <div align="left">
   
-[![Thales top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesmarconsin&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
+
  </div>
