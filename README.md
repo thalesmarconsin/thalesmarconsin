@@ -14,7 +14,6 @@
 
 
 ## My name is Thales Marconsin
-- 👩‍💻 Front-End Developer @[Geminis Soluções](https://www.geminissolucoes.com.br/)
 - 🎓 Systems Analysis and Development @ [FATEC](https://www.fatecjales.edu.br/)
 - 🎓 Internet Computing @ [ETEC](https://etecsantafedosul.com.br/)
 - 🏆 A2 Key Cambridge Certified @ [Cambridge Assessment English](https://www.cambridgeenglish.org/br/)
