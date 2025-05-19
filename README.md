@@ -14,11 +14,11 @@
 
 
 ## My name is Thales Marconsin
-- 🎓 Systems Analysis and Development @ [FATEC](https://www.fatecjales.edu.br/)
-- 🎓 Internet Computing @ [ETEC](https://etecsantafedosul.com.br/)
+- 🎓 I.T @ [FATEC](https://www.fatecjales.edu.br/)
+- 🎓 Informática para Internet @ [ETEC](https://etecsantafedosul.com.br/)
 - 🏆 A2 Key Cambridge Certified @ [Cambridge Assessment English](https://www.cambridgeenglish.org/br/)
-- 🌐 Passionate about web development
-- 💡 Love a good challenge and tech things :).
+- 🌐 Apaixonado por desenvolvimento web
+- 💡 Adoro um bom desafio e tudo que envolve tecnologia :)
 
 <div align="left">
 
