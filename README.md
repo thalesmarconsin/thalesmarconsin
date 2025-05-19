@@ -15,10 +15,10 @@
 
 ## My name is Thales Marconsin
 - 🎓 I.T @ [FATEC](https://www.fatecjales.edu.br/)
-- 🎓 Informática para Internet @ [ETEC](https://etecsantafedosul.com.br/)
+- 🎓 Internet Computing @ [ETEC](https://etecsantafedosul.com.br/)
 - 🏆 A2 Key Cambridge Certified @ [Cambridge Assessment English](https://www.cambridgeenglish.org/br/)
-- 🌐 Apaixonado por desenvolvimento web
-- 💡 Adoro um bom desafio e tudo que envolve tecnologia :)
+- 🌐 Passionate about web development
+- 💡 Love a good challenge and tech things :).
 
 <div align="left">
 
