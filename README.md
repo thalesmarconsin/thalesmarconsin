@@ -10,7 +10,7 @@
 
 ## My Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,javaweb,angular,laravel,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,prisma,react,pgsql,mysql,angular,laravel,vscode,git,github&theme=dark" />
 
 
 ## My name is Thales Marconsin
