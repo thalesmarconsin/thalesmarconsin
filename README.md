@@ -23,7 +23,10 @@
 
 <div align="left">
  
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thalesmarconsin&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thalesmarconsin&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thalesmarconsin&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thalesmarconsin&theme=github)
+
 
 
 
